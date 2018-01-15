@@ -1,4 +1,4 @@
-package life.givesomeone.requestrepositoryservice;
+package life.givesomeone.request;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class RequestRepositoryServiceApplicationTests {
+public class RequestApplicationTests {
 
 	@Test
 	public void contextLoads() {

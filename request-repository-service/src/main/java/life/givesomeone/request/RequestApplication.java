@@ -1,12 +1,12 @@
-package life.givesomeone.requestrepositoryservice;
+package life.givesomeone.request;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RequestRepositoryServiceApplication {
+public class RequestApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(RequestRepositoryServiceApplication.class, args);
+		SpringApplication.run(RequestApplication.class, args);
 	}
 }
